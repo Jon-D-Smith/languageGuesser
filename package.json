@@ -1,0 +1,28 @@
+{
+  "name": "languageguesser",
+  "version": "1.0.0",
+  "description": "Language guessing application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-D-Smith/languageGuesser.git"
+  },
+  "keywords": [
+    "language",
+    "guessing",
+    "detection"
+  ],
+  "author": "Jon Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jon-D-Smith/languageGuesser/issues"
+  },
+  "homepage": "https://github.com/Jon-D-Smith/languageGuesser#readme",
+  "dependencies": {
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
